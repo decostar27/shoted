@@ -10,7 +10,8 @@ Test your reflexes, pop rising targets, charge your ultimate ability, and surviv
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 <p align="center">
-  <img src="screenshot.png" alt="Shoted Game Play Screenshot" width="800px">
+  <img src =<img width="1592" height="897" alt="Screenshot 2026-11-06 005824" src="https://github.com/user-attachments/assets/74b3a67e-ff3d-494c-81ce-a0ceb6c5065a" /> 
+
 </p>
 
 </div>
