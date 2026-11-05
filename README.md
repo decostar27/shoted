@@ -24,7 +24,7 @@ Test your reflexes, pop rising targets, charge your ultimate ability, and surviv
 * **⚡ Mega Blast System:** Successfully pop balloons to charge your Mega Blast meter (5/10 streak)[cite: 1] and clear the entire screen when overwhelmed.
 * **📈 Progressive Difficulty:** Advance through **10 unique levels**[cite: 1], featuring increasing spawn rates, varied speeds, and new balloon types.
 * **📊 Real-Time HUD:** Monitor your live performance with a clean status bar tracking your **Score**, **Missed targets**[cite: 1], Mega Blast gauge[cite: 1], current level[cite: 1], and live run timer[cite: 1].
-
+  #builddev #shoted #game2d #python
 ---
 
 ## 🎮 Controls
@@ -38,7 +38,7 @@ Test your reflexes, pop rising targets, charge your ultimate ability, and surviv
 
 ## 🚀 Quick Start Guide
 
-Follow these simple steps to get the game up and running on your local machine.
+Follow these simple steps to get the game up and running on your local machine. 
 
 ### 1. Prerequisites
 Ensure you have **Python 3.8 or higher** installed on your system. You can verify your installation by running:
